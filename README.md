@@ -1,6 +1,7 @@
 <h1> 📚 Biblioteca Virtual </h1>
 Este projeto é uma biblioteca virtual desenvolvida em React, onde os livros disponíveis são exibidos de forma dinâmica a partir de dados obtidos de um servidor. A aplicação consome uma API RESTful criada com Express, que fornece as informações sobre os livros, como título, capa, gênero, ano de publicação e autor. O conteúdo é atualizado automaticamente no front-end, proporcionando uma experiência intuitiva e em tempo real para o usuário.
 <br>
+Você pode visualizar este projeto [clicando aqui](https://biblioteca-front-nine.vercel.app)
 <hr>
 <b>🚀 Funcionalidades</b> <br>
 Visualização dos Livros: Exibe uma lista de livros com capa, título, gênero, ano e autor. <br>
